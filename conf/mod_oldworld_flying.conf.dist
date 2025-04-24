@@ -1,0 +1,19 @@
+#
+# Copyright (C) 2016+ AzerothCore <www.azerothcore.org>, released under GNU AGPL v3 license: https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE-AGPL3
+#
+
+[worldserver]
+
+########################################
+# Old World Flying module configuration
+########################################
+
+# ModOldWorldFlying.enable
+# Enable or disable Old World Flying module
+# Default: 1 (enabled)
+ModOldWorldFlying.Enable = 1
+
+# ModOldWorldFlying.SpellId
+# Spell ID required for flying in old world
+# Default: 200001
+ModOldWorldFlying.SpellId = 200001
